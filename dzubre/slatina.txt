@@ -1,2 +1,6 @@
 To je slatina.
+<<<<<<< HEAD
 Prvi sandbox.
+=======
+Drugi sandbox.
+>>>>>>> 9601dc0f3274c6af6b49baa2cb095a6aae6a3dc7
